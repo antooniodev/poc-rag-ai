@@ -1,0 +1,8 @@
+fastapi==0.115.14
+chromadb==1.0.13
+google-genai==1.18.0
+langchain==0.3.25
+langchain-google-genai==2.1.5
+python-dotenv==1.1.0
+PyPDF2==3.0.1
+google-generativeai
